@@ -1,7 +1,6 @@
 # github.com/cpuguy83/go-md2man/v2 v2.0.0-20190314233015-f79a8a8ca69d
 github.com/cpuguy83/go-md2man/v2/md2man
 # github.com/davecgh/go-spew v1.1.1
-## explicit
 github.com/davecgh/go-spew/spew
 # github.com/klauspost/compress v1.10.5
 ## explicit
@@ -36,7 +35,7 @@ github.com/shurcooL/sanitized_anchor_name
 # github.com/sirupsen/logrus v0.0.0-20180315010703-90150a8ed11b
 ## explicit
 github.com/sirupsen/logrus
-# github.com/stretchr/testify v1.6.1
+# github.com/stretchr/testify v1.8.2
 ## explicit
 github.com/stretchr/testify/assert
 github.com/stretchr/testify/require
@@ -64,6 +63,5 @@ golang.org/x/sys/windows
 ## explicit
 # gopkg.in/yaml.v2 v2.3.0
 ## explicit
-# gopkg.in/yaml.v3 v3.0.0-20200615113413-eeeca48fe776
-## explicit
+# gopkg.in/yaml.v3 v3.0.1
 gopkg.in/yaml.v3
